@@ -1,7 +1,7 @@
 ---
-title: "CODE-BLOG"
-date: 2019-01-22
-
+title: "Your blog post title"
+date: YYYY-MM-DD
+---
 author: GitHub 
 email: example@domain.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -13,4 +13,3 @@ twitter_username: your-twitter-handle
 github_username:  your-github-handle
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
----
